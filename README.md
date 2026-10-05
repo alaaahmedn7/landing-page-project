@@ -16,4 +16,4 @@ A responsive educational technology landing page.
 - Footer with contact and social media links
 
 # How to run 
-Open the 'index.HTML' fie in a web browser.
+Open the 'index.HTML' fiLe in a web browser.
